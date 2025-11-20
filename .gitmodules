@@ -1,0 +1,3 @@
+[submodule "mem_model/yamm"]
+	path = mem_model/yamm
+	url = git@github.com:amiq-consulting/yamm.git
